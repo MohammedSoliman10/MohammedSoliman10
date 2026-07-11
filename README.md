@@ -57,11 +57,23 @@ I'm on a journey to becoming a skilled **Web3 & Blockchain Developer** — explo
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedSoliman10&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
 
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedSoliman10&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedSoliman10" alt="GitHub streak" />
+</p>
 
-</div>
+---
+
+### 📌 Featured Projects
+
+- **[Task Tracker CLI](https://github.com/MohammedSoliman10/task-tracker-cli)** — Python CLI task manager with JSON storage
+- **Task Tracker Web App** — Flask + SQLite + Flask-Login, full CRUD with admin panel ([live demo](https://MohammedSoliman101.pythonanywhere.com))
+- **[Number Guessing Game](https://github.com/MohammedSoliman10/number-guessing-game)** — Java game with difficulty levels & high scores
+- **[FCI Menoufia Website](https://mohammedsoliman10.github.io/fci-menoufia-website)** — Faculty website deployed on GitHub Pages
+
 
 ---
 
