@@ -68,12 +68,12 @@ I'm on a journey to becoming a skilled **Web3 & Blockchain Developer** — explo
 ---
 
 ### 📌 Featured Projects
+*(Backend & full-stack projects — separate from my Web3 work above)*
 
 - **[Task Tracker CLI](https://github.com/MohammedSoliman10/task-tracker-cli)** — Python CLI task manager with JSON storage
-- **Task Tracker Web App** — Flask + SQLite + Flask-Login, full CRUD with admin panel ([live demo](https://MohammedSoliman101.pythonanywhere.com))
+- **[Task Tracker Web App](REPO_URL_HERE)** — Flask + SQLite + Flask-Login, full CRUD with admin panel ([live demo](https://MohammedSoliman101.pythonanywhere.com))
 - **[Number Guessing Game](https://github.com/MohammedSoliman10/number-guessing-game)** — Java game with difficulty levels & high scores
 - **[FCI Menoufia Website](https://mohammedsoliman10.github.io/fci-menoufia-website)** — Faculty website deployed on GitHub Pages
-
 
 ---
 
