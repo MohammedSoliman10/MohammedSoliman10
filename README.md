@@ -1,61 +1,68 @@
-<h1 align="center">Hi, I'm Mohammed Soliman 👋</h1>
-<h3 align="center">CS Student · Backend Developer · Diving into Web3 & Blockchain</h3>
+<h1 align="center">Hi there, I'm Mohammed Soliman 👋</h1>
+<h3 align="center">🚀 Aspiring Web3 & Blockchain Developer</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohammed-soliman-3a6651304"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mohammedsolly4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-soliman05/)
 
-### 🔗 Currently Learning: Web3 & Blockchain
-
-I'm actively studying **Web3 and blockchain development** — smart contracts, decentralized applications, and how blockchain systems work under the hood. This is my main focus right now, alongside my backend engineering path.
-
-- 🧱 Exploring smart contract fundamentals (Solidity)
-- 🌐 Understanding dApp architecture and how blockchains connect to real-world backends
-- 📚 Building foundational knowledge in decentralized systems, consensus, and crypto-economics
+</div>
 
 ---
 
-### 💻 Also Building: Backend & AI Engineering
+### 👨‍💻 About Me
 
-- 🎓 CS student at **Menoufia University** (graduating July 2027)
-- 💼 Backend AI Engineering Intern @ **FlyRank**
-- ⚙️ Building backend systems with **Python** and **FastAPI**
-- 🧠 Working toward LLM/RAG specialization
-- 🧩 Daily DSA practice on **LeetCode**
+I'm on a journey to becoming a skilled **Web3 & Blockchain Developer** — exploring decentralized systems, smart contracts, and the technology reshaping how the internet works.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages:** Python, Java, JavaScript, C++, Dart
-**Backend:** FastAPI, Flask, SQLAlchemy, PostgreSQL, SQLite
-**Web3 (learning):** Solidity, Ethereum, Smart Contracts
-**Tools:** Git, PyCharm, VS Code, Postman, JMeter
+- 🔭 Building hands-on projects in **Solidity** and smart contract development
+- 🌱 Growing my skills across the Web3 stack — **Ethereum**, **DeFi**, and decentralized apps
+- 📢 Documenting my progress through a public **90-Day Web3 & Blockchain Learning Challenge**
+- 💬 Always up for a chat about blockchain fundamentals, consensus mechanisms, and dApp architecture
+- 📫 Let's connect — reach out via LinkedIn above!
 
 ---
 
-### 📌 Featured Projects
+### 🛠️ Skills & Tools
 
-- **[Task Tracker CLI](https://github.com/MohammedSoliman10/task-tracker-cli)** — Python CLI task manager with JSON storage
-- **Task Tracker Web App** — Flask + SQLite + Flask-Login, full CRUD with admin panel ([live demo](https://MohammedSoliman101.pythonanywhere.com))
-- **[Number Guessing Game](https://github.com/MohammedSoliman10/number-guessing-game)** — Java game with difficulty levels & high scores
-- **[FCI Menoufia Website](https://mohammedsoliman10.github.io/fci-menoufia-website)** — Faculty website deployed on GitHub Pages
+<div align="center">
+
+![Web3](https://img.shields.io/badge/Web3-8247E5?style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Blockchain Development](https://img.shields.io/badge/Blockchain_Development-1E3A8A?style=for-the-badge)
+
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-4B0082?style=for-the-badge)
+![DeFi](https://img.shields.io/badge/DeFi-8A2BE2?style=for-the-badge)
+![ERC-20](https://img.shields.io/badge/ERC--20-5C6BC0?style=for-the-badge)
+![ERC-721](https://img.shields.io/badge/ERC--721-5C6BC0?style=for-the-badge)
+
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+![Remix](https://img.shields.io/badge/Remix-1C1C1C?style=for-the-badge)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge)
+
+</div>
+
+---
+
+### 📚 Currently Learning
+
+- 🔐 Blockchain fundamentals — distributed ledgers, hashing, and consensus mechanisms
+- 📝 Solidity & smart contract development
+- 🏗️ Testing and deploying contracts with **Foundry** & **Hardhat**
+- 💰 DeFi protocols and token standards (**ERC-20**, **ERC-721**)
+- 🛡️ Smart contract security best practices
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedSoliman10&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedSoliman10" alt="GitHub streak" />
-</p>
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedSoliman10&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">📫 Reach me at <b>mohammedsolly4@gmail.com</b></p>
+<p align="center"><i>Thanks for stopping by! 🚀</i></p>
