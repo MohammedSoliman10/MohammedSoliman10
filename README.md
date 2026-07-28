@@ -64,6 +64,10 @@ I'm on a journey to becoming a skilled **Web3 & Blockchain Developer** — explo
   <img src="https://streak-stats.demolab.com/?user=MohammedSoliman10&theme=default" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedSoliman10" alt="GitHub activity graph" />
+</p>
+
 ---
 
 ### 📌 Featured Projects
