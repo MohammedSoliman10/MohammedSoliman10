@@ -4,6 +4,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-soliman05/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedsolly4@gmail.com)
 
 </div>
 
@@ -17,7 +18,7 @@ I'm on a journey to becoming a skilled **Web3 & Blockchain Developer** — explo
 - 🌱 Growing my skills across the Web3 stack — **Ethereum**, **DeFi**, and decentralized apps
 - 📢 Documenting my progress through a public **90-Day Web3 & Blockchain Learning Challenge**
 - 💬 Always up for a chat about blockchain fundamentals, consensus mechanisms, and dApp architecture
-- 📫 Let's connect — reach out via LinkedIn above!
+- 📫 Let's connect — reach out via LinkedIn or email above!
 
 ---
 
@@ -29,12 +30,10 @@ I'm on a journey to becoming a skilled **Web3 & Blockchain Developer** — explo
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Blockchain Development](https://img.shields.io/badge/Blockchain_Development-1E3A8A?style=for-the-badge)
-
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-4B0082?style=for-the-badge)
 ![DeFi](https://img.shields.io/badge/DeFi-8A2BE2?style=for-the-badge)
 ![ERC-20](https://img.shields.io/badge/ERC--20-5C6BC0?style=for-the-badge)
 ![ERC-721](https://img.shields.io/badge/ERC--721-5C6BC0?style=for-the-badge)
-
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
 ![Remix](https://img.shields.io/badge/Remix-1C1C1C?style=for-the-badge)
@@ -62,12 +61,13 @@ I'm on a journey to becoming a skilled **Web3 & Blockchain Developer** — explo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedSoliman10" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=MohammedSoliman10&theme=default" alt="GitHub streak" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
+
 *(Backend & full-stack projects — separate from my Web3 work above)*
 
 - **[Task Tracker CLI](https://github.com/MohammedSoliman10/task-tracker-cli)** — Python CLI task manager with JSON storage
