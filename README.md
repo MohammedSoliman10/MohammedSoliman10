@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammed Soliman 👋</h1>
+<h1 align="center">Hey, I'm Mohammed Soliman 👋</h1>
 
 <h3 align="center">Junior Blockchain Engineer · Solidity, Foundry & Smart Contract Security</h3>
 
