@@ -80,6 +80,7 @@ I'm a Computer Science student at Menoufia University (Cairo, Egypt) who builds 
 | --- | --- | --- |
 | **Portfolio Website** | Next.js 16 + Tailwind 4 portfolio with an ethereum.org-inspired theme, smooth scrolling, parallax hero and all my projects in one place. | [Code](https://github.com/MohammedSoliman10/soliman-portfolio) · [Live](https://soliman-portfolio-peach.vercel.app) |
 | **TokenVesting** | ERC-20 vesting dApp with cliff + 90-day intervals, atomic funding, and a written security review. 62 Foundry tests (unit, fuzz, invariant), 95% coverage gate, CI. | [Code](https://github.com/MohammedSoliman10/TokenVesting) · [Live](https://token-vesting-lyart.vercel.app) |
+| **Tokenized Vault** | ERC-4626-inspired vault with non-transferable shares, a 24-hour cooldown faucet and a live activity feed. 30 Foundry tests, CI, both contracts verified on Sepolia Etherscan. | [Code](https://github.com/MohammedSoliman10/tokenized-vault) · [Live](https://tokenized-vault.vercel.app) |
 | **Handshake** | P2P escrow with an on-chain "Deal Passport", ENS wildcard resolver and Privy wallet login. Submitted to ETHGlobal ETHOnline 2026. | [Code](https://github.com/MohammedSoliman10/handshake-skeleton) · [Showcase](https://ethglobal.com/showcase/handshake-czfzr) |
 | **Dutch Auction** | Descending-price NFT auction with atomic settlement and overpayment refunds. 64 Foundry tests, 0 Slither findings, verified on Sourcify. | [Code](https://github.com/MohammedSoliman10/dutch-auction) · [Live](https://dutch-auction-mu.vercel.app) |
 | **English Auction** | Ascending-bid auction with pull-based refunds for losing bidders. 305 tests across contracts, front end and back end. | [Code](https://github.com/MohammedSoliman10/english-auction) · [Live](https://english-auction-nine.vercel.app) |
@@ -120,7 +121,7 @@ I document what I learn in public: a [90-Day Solidity & Web3 challenge](https://
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSoliman10&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedSoliman10)](https://github.com/MohammedSoliman10)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedSoliman10)](https://github.com/MohammedSoliman10/MohammedSoliman10)
 
 ---
 
