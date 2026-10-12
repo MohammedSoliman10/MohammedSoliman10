@@ -3,6 +3,7 @@
 <h3 align="center">Junior Blockchain Engineer · Solidity, Foundry & Smart Contract Security</h3>
 
 <p align="center">
+  <a href="https://soliman-portfolio-peach.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8247E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mohammed-soliman05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/MohammedSolly05"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://medium.com/@mohammedsolly4"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
@@ -22,6 +23,7 @@ I'm a Computer Science student at Menoufia University (Cairo, Egypt) who builds 
 - 📢 Documenting my progress through a public **90-Day Web3 & Blockchain Learning Challenge**
 - 🎯 Looking for junior smart contract / security engineering roles
 - 💬 Always up for a chat about blockchain fundamentals, consensus mechanisms, and dApp architecture
+- 🌐 Portfolio: [soliman-portfolio-peach.vercel.app](https://soliman-portfolio-peach.vercel.app)
 - 📫 Let's connect: reach out via LinkedIn above or at mohammedsolly4@gmail.com
 
 ---
@@ -76,6 +78,7 @@ I'm a Computer Science student at Menoufia University (Cairo, Egypt) who builds 
 
 | Project | What it is | Links |
 | --- | --- | --- |
+| **Portfolio Website** | Next.js 16 + Tailwind 4 portfolio with an ethereum.org-inspired theme, smooth scrolling, parallax hero and all my projects in one place. | [Code](https://github.com/MohammedSoliman10/soliman-portfolio) · [Live](https://soliman-portfolio-peach.vercel.app) |
 | **TokenVesting** | ERC-20 vesting dApp with cliff + 90-day intervals, atomic funding, and a written security review. 62 Foundry tests (unit, fuzz, invariant), 95% coverage gate, CI. | [Code](https://github.com/MohammedSoliman10/TokenVesting) · [Live](https://token-vesting-lyart.vercel.app) |
 | **Handshake** | P2P escrow with an on-chain "Deal Passport", ENS wildcard resolver and Privy wallet login. Submitted to ETHGlobal ETHOnline 2026. | [Code](https://github.com/MohammedSoliman10/handshake-skeleton) · [Showcase](https://ethglobal.com/showcase/handshake-czfzr) |
 | **Dutch Auction** | Descending-price NFT auction with atomic settlement and overpayment refunds. 64 Foundry tests, 0 Slither findings, verified on Sourcify. | [Code](https://github.com/MohammedSoliman10/dutch-auction) · [Live](https://dutch-auction-mu.vercel.app) |
@@ -121,4 +124,4 @@ I document what I learn in public: a [90-Day Solidity & Web3 challenge](https://
 
 ---
 
-*Thanks for stopping by! 🚀*
+*Thanks for stopping by! See everything in one place at my [portfolio](https://soliman-portfolio-peach.vercel.app). 🚀*
